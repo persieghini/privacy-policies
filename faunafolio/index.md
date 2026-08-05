@@ -111,4 +111,4 @@ changes are unlikely.
 ## Contact
 
 Questions: open an issue at
-[github.com/persieghini/FaunaFolio](https://github.com/persieghini/FaunaFolio/issues).
+[github.com/persieghini/privacy-policies](https://github.com/persieghini/privacy-policies/issues).
