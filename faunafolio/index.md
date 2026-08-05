@@ -110,5 +110,7 @@ changes are unlikely.
 
 ## Contact
 
-Questions: open an issue at
+Questions: email
+[persieghinidev@gmail.com](mailto:persieghinidev@gmail.com), or open an
+issue at
 [github.com/persieghini/privacy-policies](https://github.com/persieghini/privacy-policies/issues).
