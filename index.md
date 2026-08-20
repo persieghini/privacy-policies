@@ -6,3 +6,4 @@ title: Privacy Policies
 
 - [FaunaFolio](faunafolio/)
 - [Magnetify](magnetify/)
+- [WattShift](wattshift/)
