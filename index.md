@@ -6,4 +6,4 @@ title: Privacy Policies
 
 - [FaunaFolio](faunafolio/)
 - [Magnetify](magnetify/)
-- [WattWhen](wattwhen/)
+- [PennyWatt](pennywatt/)
